@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "" src="https://cdn.pixabay.com/photo/2017/04/11/15/55/animals-2222007_960_720.jpg" alt="cover" />
+<img width="100%" height="350px" src="https://github.com/CyrilBochet/CyrilBochet/blob/main/animal-800760_960_720.png?raw=true" alt="cover" />
 </div>
 
 <h1> Hello Friend <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
@@ -51,7 +51,6 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CyrilBochet&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CyrilBochet&count_private=true&show_icons=true&theme=synthwave" />
 
 <br><br><br><br><br><br><br><br><br>
